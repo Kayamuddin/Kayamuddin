@@ -116,7 +116,7 @@ Rizvi College of Arts, Science and Commerce, Mumbai
 ## Connect with Me
 
 - **GitHub:** https://github.com/kayamuddin
-- **Email:** kayamuddin.dev@email.com
+- **Email:** kayamuddin.dev@gmail.com
 - **Location:** Mumbai, Maharashtra, India
 
 ---
